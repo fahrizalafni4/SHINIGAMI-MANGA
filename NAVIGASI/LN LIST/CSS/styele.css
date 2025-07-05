@@ -1,0 +1,200 @@
+body {
+	background-image: url("../../../../AFNI/GAMBAR/background.jpg");
+	background-size: cover;
+}
+
+.badan-utama
+{
+	max-width: 1350px;
+	margin:auto;
+	padding: 0,5px;
+	overflow: hidden;
+	background-color: #0D0A0A;
+	
+}
+
+.navigasi ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: black;
+	font-family: arial, helvatica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	cursor:alias;
+}
+
+
+
+.navigasi li
+{
+	float:right;
+}
+ .navigasi li a
+{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 10px 20px;
+	text-decoration: none;
+}
+
+.navigasi li a:hover
+{
+	background-color:#FF0004;
+	transition: 1.5s;
+	color: #580000;
+}
+
+.paling-atas {
+	height: 35px;
+	background-color: #900002;
+	color: white;
+	text-align: center;
+	
+}
+
+.paling-atas h {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 20px
+}
+
+.menu {
+	width: 1350px;
+	height:800px;
+	margin-bottom: inherit;
+}
+
+.list {
+	width: 245px;
+overflow: hidden;
+	height: auto;
+	float: left;
+	margin-left:20px;
+	margin-top: 20px;
+	background-color: #050505;}
+
+.isi-list a {
+	float: left;
+	overflow: hidden;
+	height:350px;
+	width: 245px;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+		
+}
+
+.isi-list img {
+	float: left;
+	height: 270px;
+	margin-left: 30px;
+	margin-top: 20px
+}
+
+.isi-list a p  {
+	font-size: 20px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	text-align: center;
+	margin-top: inherit;
+	color: white;
+	
+		
+}
+
+.batas-bawah {
+	height: 30px;
+	background-color: #470001;
+	
+		
+}
+
+.bagian-bawah {
+	
+	height: 200px;
+	background-color: #171112;
+	text-align: center;
+}
+
+.bagian-bawah p {
+	color: white;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 20px;
+	margin-bottom: 20px;
+	margin-top: inherit;
+}
+
+.gambar-sosmed {
+	width: 40px;
+	height: 40px;
+	float: left;
+	overflow: hidden;
+	margin-left: 490px;
+	margin-top: inherit;
+}
+
+.gambar-sosmed2 {
+	width: 40px;
+	height: 40px;
+	float: left;
+	overflow:hidden;
+	margin-left: 60px;
+	margin-top: inherit;
+}
+
+.gambar-sosmed3 {
+	margin-top: inherit;
+	width: 40px;
+	height: 40px;
+	float: left;
+	overflow: hidden;
+	margin-left: 60px
+}
+
+.gambar-sosmed4 {
+	margin-top: inherit;
+	width: 40px;
+	height: 40px;
+	float: left;
+	overflow: hidden;
+	margin-left: 60px
+}
+
+
+.gambar-sosmed img {
+	width: 40px;
+	float: left;
+	}
+
+
+.gambar-sosmed2 img {
+	width: 40px;
+	float: left;
+	margin-top: inherit;
+}
+
+.gambar-sosmed3 img {
+	margin-top: inherit;
+	width: 40px;
+	float: left;
+}
+
+.gambar-sosmed4 img {
+	margin-top: inherit;
+	width: 40px;
+	float: left;
+}
+
+.bagian-bawah p1{
+	margin-top: 70px;
+	color: white;
+	float: right;
+	margin-right: 620px;
+	font-size: 15px
+}
+
+	
+
+	
