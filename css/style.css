@@ -1,0 +1,267 @@
+body {
+	background-image: url("../../AFNI/GAMBAR/background.jpg");
+	background-size: cover;
+}
+
+.header{
+	background-image: url("../gambar/header/WEEB HEADER 2 pt3.jpg");
+	background-size: cover;
+	position: relative;
+	width: auto;
+	height: auto;
+	padding: 80px;
+	
+}
+
+.tambahan {
+	height: 25px;
+	background-color: black;
+}
+
+.badan-utama
+{
+	max-width: 1400px;
+	margin:auto;
+	padding: 0,5px;
+	overflow: hidden;
+}
+
+.navigasi ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: black;
+	font-family: arial, helvatica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	cursor:alias;
+}
+
+
+
+.navigasi li
+{
+	float:right;
+}
+ .navigasi li a
+{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 10px 20px;
+	text-decoration: none;
+}
+
+.navigasi li a:hover
+{
+	background-color:#FF0004;
+	transition: 1.5s;
+	color: #580000;
+}
+.ligthnovel {
+	background-color: #740001;
+	height: 30px;
+	min-width: 1020px;
+	max-width: 1020px;
+	margin-right: inherit;
+	
+}
+
+h {
+	font-size: 20px;
+	color: white;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	margin-left: 20px;
+	margin-top: inherit;
+	margin-bottom: inherit;
+		
+}
+
+.menu-tambahan {
+	float: right;
+	overflow: hidden;
+	height: 1240px;
+	width: 300px;
+	background-color: #070707;
+	color: white;
+	text-align: center;
+	margin-left: 12px;
+}
+
+.menu-tambahan h1 {
+	width: auto;
+	height: 30px;
+	background-color: #530102;
+	margin-top: inherit;
+	font-size: 15px;
+	text-align: center;
+	margin: inherit;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+
+.isi-menu-tambahan {
+	float: left;
+	overflow: hidden;
+	height: 100px;
+	text-align: left;
+	background-color: #110D0D;
+	width: 300px;
+	margin-bottom: 12px
+}
+	
+
+
+.isi-menu-tambahan img {
+	height: 100px;
+	overflow: hidden;
+	float: left;
+	margin-right: 12px;
+	margin-bottom: 12px
+}
+
+.isi-menu-tambahan p a  {
+	color: white;
+	text-decoration: none;
+	text-align: left;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 18px;
+	margin-bottom: inherit;
+}
+
+.isi-menu-tambahan p1 {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 12px;
+	text-align: left;
+}
+
+
+
+.menu {
+	height: 131px;
+	overflow: hidden;
+	background-color: #151414;
+	margin-top:inherit;
+	margin-bottom: inherit;
+	
+}
+
+.menu img {
+	width: 93px;
+	float: left;
+	overflow: hidden;
+	position: relative;
+	margin-right: 20px;
+	margin-bottom: inherit;
+}
+
+
+.menu a {
+	color: white;
+	font-size: 20px;
+	margin-top: inherit;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	margin: inherit;
+	text-decoration: none;
+}
+
+p {
+	text-align: center;
+	margin-bottom: inherit;
+	margin-top: inherit;
+}
+
+.menu p2 a {
+	font-size: 11px;
+	color: white;
+	margin-top: inherit;
+	text-align: center;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	
+}
+
+.batas-bawah {
+	height: 30px;
+	background-color: #470001;
+	margin-top: 20px;
+	margin-bottom: inherit;
+		
+}
+
+.bagian-bawah {
+	
+	height: 200px;
+	background-color: #171112;
+	margin-top: inherit;
+	margin-bottom: inherit;
+}
+
+.bagian-bawah p {
+	color: white;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 20px;
+	margin-bottom: 20px
+}
+
+.gambar-sosmed {
+	width: 40px;
+	height: 40px;
+	float: left;
+	overflow: hidden;
+	margin-left: 490px
+}
+
+.gambar-sosmed2 {
+	width: 40px;
+	height: 40px;
+	float: left;
+	overflow:hidden;
+	margin-left: 60px
+}
+
+.gambar-sosmed3 {
+	width: 40px;
+	height: 40px;
+	float: left;
+	overflow: hidden;
+	margin-left: 60px
+}
+
+.gambar-sosmed4 {
+	width: 40px;
+	height: 40px;
+	float: left;
+	overflow: hidden;
+	margin-left: 60px
+}
+
+
+.gambar-sosmed img {
+	width: 40px;
+	float: left;
+	}
+
+
+.gambar-sosmed2 img {
+	width: 40px;
+	float: left;
+}
+
+.gambar-sosmed3 img {
+	width: 40px;
+	float: left;
+}
+
+.gambar-sosmed4 img {
+	width: 40px;
+	float: left;
+}
+
+.bagian-bawah p1{
+	margin-top: 70px;
+	color: white;
+	float: right;
+	margin-right: 620px;
+	font-size: 15px
+}
