@@ -1,0 +1,145 @@
+Body {
+	background-color: #151414;
+	background-size:contain;
+}
+
+.atas {
+	height: 30px;
+	background-color: #470001;
+}
+
+.navigasi ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: black;
+	font-family: arial, helvatica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	cursor:alias;
+}
+
+
+
+.navigasi li
+{
+	float:right;
+}
+ .navigasi li a
+{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 10px 20px;
+	text-decoration: none;
+}
+
+.navigasi li a:hover
+{
+	background-color:#FF0004;
+	transition: 1.5s;
+	color: #580000;
+}
+
+.isi {
+	max-width: 1400px;
+	margin:auto;
+	padding: 0,5px;
+	overflow: hidden;
+		text-align: center;
+		background-color: #151414;
+	
+}
+
+.isi img {
+	width: 700px
+}
+
+.batas-bawah {
+	height: 30px;
+	background-color: #470001;
+	margin-top: 20px;
+	margin-bottom: inherit;
+		
+}
+
+.bagian-bawah {
+	
+	height: 200px;
+	background-color: #171112;
+	margin-top:inherit;
+	margin-bottom: inherit;
+}
+
+.bagian-bawah p {
+	color: white;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 20px;
+	margin-bottom: 20px
+}
+
+.gambar-sosmed {
+	width: 40px;
+	height: 40px;
+	float: left;
+	overflow: hidden;
+	margin-left: 490px
+}
+
+.gambar-sosmed2 {
+	width: 40px;
+	height: 40px;
+	float: left;
+	overflow:hidden;
+	margin-left: 60px
+}
+
+.gambar-sosmed3 {
+	width: 40px;
+	height: 40px;
+	float: left;
+	overflow: hidden;
+	margin-left: 60px
+}
+
+.gambar-sosmed4 {
+	width: 40px;
+	height: 40px;
+	float: left;
+	overflow: hidden;
+	margin-left: 60px
+}
+
+
+.gambar-sosmed img {
+	width: 40px;
+	float: left;
+	}
+
+
+.gambar-sosmed2 img {
+	width: 40px;
+	float: left;
+}
+
+.gambar-sosmed3 img {
+	width: 40px;
+	float: left;
+}
+
+.gambar-sosmed4 img {
+	width: 40px;
+	float: left;
+}
+
+.bagian-bawah p1{
+	margin-top: 70px;
+	color: white;
+	float: right;
+	margin-right: 620px;
+	font-size: 15px
+}
+
+
